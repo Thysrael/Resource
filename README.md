@@ -22,3 +22,13 @@ date: 2024-01-24 00:06:53
 - [The LaTeX 2ε Sources](https://github.com/Thysrael/Resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
 
 # 博客
+
+- [WPS 引用参考文献](https://zhuanlan.zhihu.com/p/358513802)
+- [面向产品经理的 Emacs 教程](https://remacs.fun/)
+- [qemu 搭建 Linux](https://www.cnblogs.com/lvzh/p/14907592.html)
+- [linux pid namespace 源码分析](https://zhuanlan.zhihu.com/p/335171876)
+
+# 网站
+
+- [DistroWatch Linux](https://distrowatch.com/)
+- [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/)
