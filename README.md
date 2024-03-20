@@ -15,6 +15,7 @@ date: 2024-01-24 00:06:53
 - [LaTeX入门](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E5%85%A5%E9%97%A8.pdf)
 - [一份（不太）简短 的LATEX 2ε](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
 - [LaTeX排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
+- [Vim 实用技巧](https://github.com/Thysrael/Resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
 
 # 手册
 
@@ -27,6 +28,8 @@ date: 2024-01-24 00:06:53
 - [面向产品经理的 Emacs 教程](https://remacs.fun/)
 - [qemu 搭建 Linux](https://www.cnblogs.com/lvzh/p/14907592.html)
 - [linux pid namespace 源码分析](https://zhuanlan.zhihu.com/p/335171876)
+- [CS科研的经验帖汇总](https://zhaoxiahust.github.io/blog/index.html)
+- [linux 内核远航者](https://cloud.tencent.com/developer/column/92632)
 
 # 网站
 
