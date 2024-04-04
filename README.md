@@ -25,8 +25,8 @@ date: 2024-01-24 00:06:53
 - [The LaTeX 2ε Sources](https://github.com/Thysrael/Resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
 - [RISCV 特权架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-privileged-cn.pdf)
 - [RISCV 非特权级架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-spec-cn.pdf)
-- [Armv8-A 架构开发者指南]()
-- [Armv8-A 指令集]()
+- [Armv8-A 架构开发者指南](https://github.com/Thysrael/Resource/blob/main/manuals/Armv8-CortexA.pdf)
+- [Armv8-A 指令集](https://github.com/Thysrael/Resource/blob/main/manuals/Armv8-A%20Instruction%20Set%20Architecture.pdf)
 
 # 博客
 
@@ -34,11 +34,15 @@ date: 2024-01-24 00:06:53
 - [面向产品经理的 Emacs 教程](https://remacs.fun/)
 - [qemu 搭建 Linux](https://www.cnblogs.com/lvzh/p/14907592.html)
 - [linux pid namespace 源码分析](https://zhuanlan.zhihu.com/p/335171876)
+- [英语魔法师之语法俱乐部](https://llwslc.github.io/grammar-club/)
 - [CS 科研的经验帖汇总](https://zhaoxiahust.github.io/blog/index.html)
 - [linux 内核远航者](https://cloud.tencent.com/developer/column/92632)
+- [Armv8-A 指令简易手册](https://tenloy.github.io/2021/04/17/Arm64-Handbook.html#%E5%9B%9B%E3%80%81%E5%8A%A0%E8%BD%BD-%E5%AD%98%E5%82%A8%E6%8C%87%E4%BB%A4)
+- [Linux 字体配置](https://catcat.cc/post/2020-10-31)
 
 # 网站
 
 - [DistroWatch Linux](https://distrowatch.com/)
 - [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/)
 - [QT 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/1.html)
+- [卡通图标](https://www.veryicon.com/icons/cartoon/childhood-icon/)
