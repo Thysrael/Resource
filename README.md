@@ -16,11 +16,14 @@ date: 2024-01-24 00:06:53
 - [一份（不太）简短 的LATEX 2ε](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
 - [LaTeX排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
 - [Vim 实用技巧](https://github.com/Thysrael/Resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
+- [RISCV 小册子](https://github.com/Thysrael/Resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
 
 # 手册
 
 - [The Comprehensive LATEX Symbol List](https://github.com/Thysrael/Resource/blob/main/manuals/The%20Comprehensive%20LATEX%20Symbol%20List.pdf)
 - [The LaTeX 2ε Sources](https://github.com/Thysrael/Resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
+- [RISCV 特权架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-privileged-cn.pdf)
+- [RISCV 非特权级架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-spec-cn.pdf)
 
 # 博客
 
@@ -28,10 +31,11 @@ date: 2024-01-24 00:06:53
 - [面向产品经理的 Emacs 教程](https://remacs.fun/)
 - [qemu 搭建 Linux](https://www.cnblogs.com/lvzh/p/14907592.html)
 - [linux pid namespace 源码分析](https://zhuanlan.zhihu.com/p/335171876)
-- [CS科研的经验帖汇总](https://zhaoxiahust.github.io/blog/index.html)
+- [CS 科研的经验帖汇总](https://zhaoxiahust.github.io/blog/index.html)
 - [linux 内核远航者](https://cloud.tencent.com/developer/column/92632)
 
 # 网站
 
 - [DistroWatch Linux](https://distrowatch.com/)
 - [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/)
+- [QT 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/1.html)
