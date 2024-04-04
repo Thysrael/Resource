@@ -17,6 +17,7 @@ date: 2024-01-24 00:06:53
 - [LaTeX排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
 - [Vim 实用技巧](https://github.com/Thysrael/Resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
 - [RISCV 小册子](https://github.com/Thysrael/Resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
+- [超标量处理器设计](https://github.com/Thysrael/Resource/blob/main/books/%E8%B6%85%E6%A0%87%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf)
 
 # 手册
 
@@ -24,6 +25,8 @@ date: 2024-01-24 00:06:53
 - [The LaTeX 2ε Sources](https://github.com/Thysrael/Resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
 - [RISCV 特权架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-privileged-cn.pdf)
 - [RISCV 非特权级架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-spec-cn.pdf)
+- [Armv8-A 架构开发者指南]()
+- [Armv8-A 指令集]()
 
 # 博客
 
