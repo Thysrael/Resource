@@ -39,6 +39,9 @@ date: 2024-01-24 00:06:53
 - [linux 内核远航者](https://cloud.tencent.com/developer/column/92632)
 - [Armv8-A 指令简易手册](https://tenloy.github.io/2021/04/17/Arm64-Handbook.html#%E5%9B%9B%E3%80%81%E5%8A%A0%E8%BD%BD-%E5%AD%98%E5%82%A8%E6%8C%87%E4%BB%A4)
 - [Linux 字体配置](https://catcat.cc/post/2020-10-31)
+- [深入理解 C11/C++11 内存模型](https://zhuanlan.zhihu.com/p/405084277?utm_campaign=shareopn&utm_medium=social&utm_psn=1760524411289997312&utm_source=wechat_session)
+- [linux 内核的内存屏障-译](https://maple-leaf-0219.github.io/2020/linux%E5%86%85%E6%A0%B8%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E5%B1%8F%E9%9A%9C-%E8%AF%91/)
+- [编辑的时候我在想什么](https://evaparish.com/blog/how-i-edit)
 
 # 网站
 
