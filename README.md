@@ -12,12 +12,13 @@ date: 2024-01-24 00:06:53
 - [science writing for non-native engish speakers](https://github.com/Thysrael/Resource/blob/main/books/science_writing_for_non-native_engish_speakers.pdf)
 - [The UNIX-HATERS Handbook](https://github.com/Thysrael/Resource/blob/main/books/The%20UNIX-HATERS%20Handbook.pdf)
 - [计算机程序的构造和解释](https://github.com/Thysrael/Resource/blob/main/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A.pdf)
-- [LaTeX入门](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E5%85%A5%E9%97%A8.pdf)
-- [一份（不太）简短 的LATEX 2ε](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
-- [LaTeX排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
+- [LaTeX 入门](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E5%85%A5%E9%97%A8.pdf)
+- [一份（不太）简短 的 LaTeX 2ε](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
+- [LaTeX 排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
 - [Vim 实用技巧](https://github.com/Thysrael/Resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
 - [RISCV 小册子](https://github.com/Thysrael/Resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
 - [超标量处理器设计](https://github.com/Thysrael/Resource/blob/main/books/%E8%B6%85%E6%A0%87%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf)
+- [博士研磨](https://github.com/Thysrael/Resource/blob/main/books/phd-grind-chn.pdf)
 
 # 手册
 
@@ -42,6 +43,9 @@ date: 2024-01-24 00:06:53
 - [深入理解 C11/C++11 内存模型](https://zhuanlan.zhihu.com/p/405084277?utm_campaign=shareopn&utm_medium=social&utm_psn=1760524411289997312&utm_source=wechat_session)
 - [linux 内核的内存屏障-译](https://maple-leaf-0219.github.io/2020/linux%E5%86%85%E6%A0%B8%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E5%B1%8F%E9%9A%9C-%E8%AF%91/)
 - [编辑的时候我在想什么](https://evaparish.com/blog/how-i-edit)
+- [Lisp 之根源](http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html)
+- [那些害死 Haskell 的，也会害死 Rust](https://www.sohu.com/a/421726521_355140)
+- [LaTeX 推荐宏包集合](https://zhuanlan.zhihu.com/p/43981639?utm_psn=1765981361578360832)
 
 # 网站
 
