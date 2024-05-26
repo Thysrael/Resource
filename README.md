@@ -19,7 +19,7 @@ date: 2024-01-24 00:06:53
 - [RISCV 小册子](https://github.com/Thysrael/Resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
 - [超标量处理器设计](https://github.com/Thysrael/Resource/blob/main/books/%E8%B6%85%E6%A0%87%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf)
 - [博士研磨](https://github.com/Thysrael/Resource/blob/main/books/phd-grind-chn.pdf)
-
+- [GNUPlot 中文教程](https://github.com/Thysrael/Resource/blob/main/books/gnuplot-zh.pdf)
 # 手册
 
 - [The Comprehensive LATEX Symbol List](https://github.com/Thysrael/Resource/blob/main/manuals/The%20Comprehensive%20LATEX%20Symbol%20List.pdf)
