@@ -46,6 +46,9 @@ date: 2024-01-24 00:06:53
 - [Lisp 之根源](http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html)
 - [那些害死 Haskell 的，也会害死 Rust](https://www.sohu.com/a/421726521_355140)
 - [LaTeX 推荐宏包集合](https://zhuanlan.zhihu.com/p/43981639?utm_psn=1765981361578360832)
+- [越差越好](https://dreamsongs.com/RiseOfWorseIsBetter.html)
+- [A64 计时器读取](https://ilinuxkernel.com/?p=1755)
+- [Nginx 入门教程](https://xuexb.github.io/learn-nginx/)
 
 # 网站
 
@@ -53,3 +56,7 @@ date: 2024-01-24 00:06:53
 - [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/)
 - [QT 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/1.html)
 - [卡通图标](https://www.veryicon.com/icons/cartoon/childhood-icon/)
+
+# 视频
+
+- [现代操作系统上海交大](https://www.bilibili.com/video/BV1y94y1S7nm?p=1&vd_source=870de2231fb5137a523d7ba66c3988da)
