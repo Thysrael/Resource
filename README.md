@@ -20,6 +20,7 @@ date: 2024-01-24 00:06:53
 - [超标量处理器设计](https://github.com/Thysrael/Resource/blob/main/books/%E8%B6%85%E6%A0%87%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf)
 - [博士研磨](https://github.com/Thysrael/Resource/blob/main/books/phd-grind-chn.pdf)
 - [GNUPlot 中文教程](https://github.com/Thysrael/Resource/blob/main/books/gnuplot-zh.pdf)
+
 # 手册
 
 - [The Comprehensive LATEX Symbol List](https://github.com/Thysrael/Resource/blob/main/manuals/The%20Comprehensive%20LATEX%20Symbol%20List.pdf)
@@ -49,6 +50,11 @@ date: 2024-01-24 00:06:53
 - [越差越好](https://dreamsongs.com/RiseOfWorseIsBetter.html)
 - [A64 计时器读取](https://ilinuxkernel.com/?p=1755)
 - [Nginx 入门教程](https://xuexb.github.io/learn-nginx/)
+- [深入 PCI 与 PCIe](https://zhuanlan.zhihu.com/p/26172972?utm_psn=1779875993148620800)
+- [深度学习简史](https://www.jiqizhixin.com/articles/2022-05-24-6)
+- [理解 Rust 中的生命周期](https://lotabout.me/2016/rust-lifetime/)
+- [如何渲染一个文字](https://blog.yangteng.me/articles/2019/typography-how-fonts-are-rendered/)
+- [字体渲染背后不得不说的故事](https://www.jianshu.com/p/8414b96549e3)
 
 # 网站
 
