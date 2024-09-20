@@ -56,6 +56,15 @@ date: 2024-01-24 00:06:53
 - [理解 Rust 中的生命周期](https://lotabout.me/2016/rust-lifetime/)
 - [如何渲染一个文字](https://blog.yangteng.me/articles/2019/typography-how-fonts-are-rendered/)
 - [字体渲染背后不得不说的故事](https://www.jianshu.com/p/8414b96549e3)
+- [细节拉满，80 张图带你一步一步推演 slab 内存池的设计与实现](https://www.cnblogs.com/binlovetech/p/17288990.html)
+- [程序验证计数--霍尔逻辑](https://blog.lucode.net/theory/PV-HoareLogic.html)
+- [CPU 内存加密技术介绍](https://blog.lucode.net/theory/PV-HoareLogic.html)
+- [AMD SEV 内存加密--白皮书](https://blog.csdn.net/qq_43543209/article/details/135652011)
+- [Enabling confidential computing with AMD SEV-SNP technology](https://dl.acm.org/doi/fullHtml/10.1145/3623392)
+- [The Various X86 Modes](https://slideplayer.com/slide/4945236/)
+- [Setting up an X86 CPU](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
+- [Code reuse attacks: the compiler story](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story)
+- [深入理解设计模式](https://refactoringguru.cn/design-patterns)
 
 # 网站
 
@@ -63,6 +72,7 @@ date: 2024-01-24 00:06:53
 - [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/)
 - [QT 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/1.html)
 - [卡通图标](https://www.veryicon.com/icons/cartoon/childhood-icon/)
+- [X86 指令速查](https://www.felixcloutier.com/x86)
 
 # 视频
 
