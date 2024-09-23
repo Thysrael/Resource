@@ -21,7 +21,7 @@ date: 2024-01-24 00:06:53
 - [博士研磨](https://github.com/Thysrael/Resource/blob/main/books/phd-grind-chn.pdf)
 - [GNUPlot 中文教程](https://github.com/Thysrael/Resource/blob/main/books/gnuplot-zh.pdf)
 - [不安的哲学](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
-- [图解Linux内核（基于6.x）.pdf](https://github.com/Thysrael/Resource/blob/main/books/%E5%9B%BE%E8%A7%A3Linux%E5%86%85%E6%A0%B8%EF%BC%88%E5%9F%BA%E4%BA%8E6.x%EF%BC%89.pdf)
+- [图解Linux内核（基于6.x）](https://github.com/Thysrael/Resource/blob/main/books/%E5%9B%BE%E8%A7%A3Linux%E5%86%85%E6%A0%B8%EF%BC%88%E5%9F%BA%E4%BA%8E6.x%EF%BC%89.pdf)
 
 # 手册
 
