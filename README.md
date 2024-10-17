@@ -50,7 +50,6 @@ date: 2024-01-24 00:06:53
 - [那些害死 Haskell 的，也会害死 Rust](https://www.sohu.com/a/421726521_355140)
 - [LaTeX 推荐宏包集合](https://zhuanlan.zhihu.com/p/43981639?utm_psn=1765981361578360832)
 - [越差越好](https://dreamsongs.com/RiseOfWorseIsBetter.html)
-- [A64 计时器读取](https://ilinuxkernel.com/?p=1755)
 - [Nginx 入门教程](https://xuexb.github.io/learn-nginx/)
 - [深入 PCI 与 PCIe](https://zhuanlan.zhihu.com/p/26172972?utm_psn=1779875993148620800)
 - [深度学习简史](https://www.jiqizhixin.com/articles/2022-05-24-6)
@@ -66,6 +65,16 @@ date: 2024-01-24 00:06:53
 - [Setting up an X86 CPU](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 - [Code reuse attacks: the compiler story](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story)
 - [深入理解设计模式](https://refactoringguru.cn/design-patterns)
+- [Linux 内存映射 mmap 源码解析](https://www.cnblogs.com/HeyLUMouMou/p/17605971.html)
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- [Linux 多线程：生产者消费者模型](https://cloud.tencent.com/developer/article/2352249)
+- [并发编程中的锁、条件变量和信号量](https://juejin.cn/post/7160593165827702792)
+- [Makefile 简明教程](https://www.zhaixue.cc/makefile/makefile-intro.html)
+- [Linux 源码基础梳理](https://www.zhihu.com/people/lgjjeff/columns)
+- [浅谈 linux 终端、会话、TTY 与守护进程](https://zhuanlan.zhihu.com/p/711816225)
+- [Rithinking PID 1](https://0pointer.de/blog/projects/systemd.html)
+- [Systemd: The Biggest Myths](https://0pointer.net/blog/projects/the-biggest-myths.html)
+- [Linux 内核动手编译实用指南](https://linux.cn/article-16252-1.html)
 
 # 网站
 
